@@ -1,3 +1,3 @@
 ## Project Name:
 The producer-consumer problem
-![Getting Started](./pthread.jpg)
+![Getting Started](./images/pthread.jpg)
